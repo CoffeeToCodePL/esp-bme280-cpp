@@ -1,0 +1,2 @@
+[submodule "drivers/bme280"]
+	url = https://github.com/boschsensortec/BME280_driver.git
